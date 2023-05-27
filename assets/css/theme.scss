@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	overflow-y: hidden;
+}
+.content {
+	font-family: sans-serif;
+	scroll-snap-type: x mandatory;	
+	display: flex;
+	-webkit-overflow-scrolling: touch;
+	overflow-x: scroll;
+}
+article {
+	border-right: 1px solid white;
+	padding: 1rem;
+	min-width: 100vw;
+	height: 100vh;
+	scroll-snap-align: start;
+	position: relative;
+
+  .caption-br {
+    text-align: right;
+    right: 0;
+    width: 60%;
+  }
+  .caption-bl {
+    text-align: left;
+    width: 60%;
+  }
+  .caption {
+    position: absolute;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    bottom: 0;
+  }
+}
