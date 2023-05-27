@@ -12,6 +12,7 @@ body {
 	display: flex;
 	-webkit-overflow-scrolling: touch;
 	overflow-x: scroll;
+    color: #fff;
 }
 article {
 	border-right: 1px solid white;
@@ -37,4 +38,15 @@ article {
     margin-left: 2%;
     bottom: 0;
   }
+}
+
+.withCenteredImage{
+    background-color: #fff;
+    background: var(--section-light-bg-color) no-repeat center center;
+    background-blend-mode: multiply;
+    background-size: cover;
+}
+
+.withGrayImage {
+    background-blend-mode: luminosity;
 }
