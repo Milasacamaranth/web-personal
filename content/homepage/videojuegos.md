@@ -1,5 +1,6 @@
 ---
 title: Videojuegos
-weight: 5
+weight: 6
+background_image: images/videojuegos.jpg
 ---
-Los videojuegos son una forma de entretenimiento que me apasiona. Sumergirme en mundos virtuales llenos de aventuras y desafíos me permite desconectar de la realidad y vivir emociones intensas. Además, los videojuegos también pueden ser una plataforma para conectar con amigos y crear lazos a través de la competencia o la colaboración
+Los videojuegos son una forma de entretenimiento que me apasiona. Sumergirme en mundos virtuales llenos de aventuras y desafíos me permite desconectar de la realidad y vivir emociones intensas. Además, también pueden ser una plataforma para conectar con amigos y crear lazos a través de la competencia o la colaboración. Los videojuegos te involucran en una serie de procesos cognitivos complejos. Uno de los aspectos destacados es el desarrollo de habilidades cognitivas, como la atención y la concentración. Los videojuegos requieren que los jugadores estén atentos a múltiples estímulos visuales y auditivos, lo que fomenta la capacidad de concentración y mejora la atención sostenida. Además, también estimulan la memoria y el pensamiento estratégico, incluso promueven la coordinación mano-ojo y la expresión creativa. O simplemente pueden sumergirnos en las maravillas de de la tecnología modernas que nos han tocado vivir.
